@@ -1,0 +1,20 @@
+1. Registro de usuarios
+2. Inicio de sesión
+3. Gestión de perfiles de usuario
+4. Búsqueda de cursos
+5. Listado de cursos
+6. Detalles del curso
+7. Inscripción en cursos
+8. Gestión de cursos
+9. Foro de discusión
+10. Entrega de tareas
+11. Calificaciones y retroalimentación
+12. Programación de clases en línea
+13. Recursos de aprendizaje
+14. Exámenes y evaluaciones
+15. Certificados
+16. Comentarios y valoraciones
+17.	Chat en vivo
+18.	Notificaciones
+19.	Progreso del curso
+20.	Integración de pagos
